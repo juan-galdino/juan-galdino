@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="wallpaper-banner.webp" alt="Banner">
+  <img src="banner-white-with-logo.webp" alt="Banner">
 </h1>
 
 <!--
