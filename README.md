@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="banner-white-with-logo.webp" alt="Banner">
-</h1>
-
 <!--
 **juan-galdino/juan-galdino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
